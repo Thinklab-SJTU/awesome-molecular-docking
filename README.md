@@ -1,6 +1,6 @@
 # awesome-molecular-docking
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg?style=flat-square)](http://makeapullrequest.com)
 <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/blob/master/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleOOD?color=red"> </a>
 [![Nianzu Yang](https://img.shields.io/badge/Nianzu-Yang-blue)](https://yangnianzu0515.github.io/)
 

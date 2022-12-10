@@ -5,7 +5,7 @@
 [![Nianzu Yang](https://img.shields.io/badge/Nianzu-Yang-blue)](https://yangnianzu0515.github.io/)
 
 
-We would like to maintain a list of resources which aim to solve molecular docking or other closely related tasks.
+We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.
 
 We will update this repository regularly.
 

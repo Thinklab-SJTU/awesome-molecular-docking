@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/blob/master/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleOOD?color=red"> </a>
 
-We would like to maintain a list of resources which aim to solve molecular docking task.
+We would like to maintain a list of resources which aim to solve molecular docking or other closely related tasks.
 
 We will update this repository regularly.
 

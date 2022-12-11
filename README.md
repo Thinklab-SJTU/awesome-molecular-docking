@@ -24,7 +24,7 @@ If you want to add some related works to this repository, please feel free to co
 
 
 ## Related Survey
-- [ ] Crampon, Kevin, et al. "Machine-learning methods for ligand–protein molecular docking." Drug discovery today (2021) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003974)]
+- [ ] Crampon, Kevin, et al. "Machine-learning methods for ligand–protein molecular docking." Drug discovery today (2021). [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003974)]
 - [ ] Harmalkar, Ameya, and Jeffrey J. Gray. "Advances to tackle backbone flexibility in protein docking." Current opinion in structural biology 67 (2021): 178-186. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0959440X20302141?via%3Dihub)]
 
 ## Software for Docking

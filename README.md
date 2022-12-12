@@ -42,7 +42,7 @@ If you want to add some related works to this repository, please feel free to co
 
 ## Molecule-Protein Docking
 - [ ] Corso, Gabriele, et al. "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking." arXiv preprint arXiv:2210.01776 (2022). [[Paper](https://arxiv.org/abs/2210.01776)][[Code](https://github.com/gcorso/DiffDock)]
-- Lu, Wei, et al. "TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction." Advances in Neural Information Processing Systems. 2022.[[Paper](https://openreview.net/forum?id=MSBDFwGYwwt)][[Code](https://github.com/luwei0917/TankBind)]
+- [ ] Lu, Wei, et al. "TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction." Advances in Neural Information Processing Systems. 2022.[[Paper](https://openreview.net/forum?id=MSBDFwGYwwt)][[Code](https://github.com/luwei0917/TankBind)]
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 
 ## Protein-Protein Docking

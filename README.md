@@ -15,7 +15,7 @@ We would like to maintain a list of resources which aim to solve molecular docki
 
 We will update this repository regularly.
 
-If you want to add some related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn.
+If you want to add related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)

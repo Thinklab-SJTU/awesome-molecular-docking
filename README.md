@@ -1,7 +1,5 @@
 <p align="center">
-  <br>
   <img width="400" src="assets/logo.svg" alt="logo of the awesome series of repositories maintained by Nianzu Yang">
-  <br>
 </p>
 
 <h1 align="center"><b>Awesome-Molecular-Docking</b></h1>

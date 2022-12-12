@@ -1,4 +1,10 @@
-<h1 align="center"><b>awesome-molecular-docking</b></h1>
+<p align="center">
+  <br>
+  <img width="600" src="assets/logo.svg" alt="logo of the awesome series of repositories maintained by Nianzu Yang">
+  <br>
+</p>
+
+<h1 align="center"><b>Awesome-Molecular-Docking</b></h1>
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
     <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
@@ -31,6 +37,8 @@ If you want to add some related works to this repository, please feel free to co
 
 ## Dataset
 - PDBBind
+- Structural Antibody Database (SAbDab)
+- Database of Interacting Protein Structures (DIPS)
 
 ## Software for Docking
 - ATTRACT 

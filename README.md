@@ -1,9 +1,11 @@
-# awesome-molecular-docking
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg?style=flat-square)](http://makeapullrequest.com)
-<a href="https://github.com/yangnianzu0515/awesome-molecular-docking/blob/master/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleOOD?color=red"> </a>
-[![Nianzu Yang](https://img.shields.io/badge/Nianzu-Yang-blue)](https://yangnianzu0515.github.io/)
-
+<h1 align="center"><b>awesome-molecular-docking</b></h1>
+<p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+    <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
+    <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/blob/master/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/awesome-molecular-docking?color=green"> </a>
+    <img src="https://img.shields.io/github/stars/yangnianzu0515/awesome-molecular-docking?color=red&label=Star" alt="Stars">
+    <a href="https://yangnianzu0515.github.io/"><img src="https://img.shields.io/badge/Nianzu-Yang-blue" alt="MyWebsite"></a>
+</p>
 
 We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.
 
@@ -12,15 +14,14 @@ We will update this repository regularly.
 If you want to add some related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn.
 
 ## Table of Contents
-- [awesome-molecular-docking](#awesome-molecular-docking)
-  - [Table of Contents](#table-of-contents)
-  - [Related Survey](#related-survey)
-  - [Dataset](#dataset)
-  - [Software for Docking](#software-for-docking)
-  - [Molecule-Protein Docking](#molecule-protein-docking)
-  - [Protein-Protein Docking](#protein-protein-docking)
-  - [Molecular Dynamics Simulation](#molecular-dynamics-simulation)
-  - [Binding Site Identification](#binding-site-identification)
+- [Table of Contents](#table-of-contents)
+- [Related Survey](#related-survey)
+- [Dataset](#dataset)
+- [Software for Docking](#software-for-docking)
+- [Molecule-Protein Docking](#molecule-protein-docking)
+- [Protein-Protein Docking](#protein-protein-docking)
+- [Molecular Dynamics Simulation](#molecular-dynamics-simulation)
+- [Binding Site Identification](#binding-site-identification)
 
 
 

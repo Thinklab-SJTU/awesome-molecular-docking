@@ -13,11 +13,11 @@
 
 We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.
 
-We will update this repository regularly. ':sunglasses:'
+We will update this repository regularly. :sunglasses:
 
 If you want to add related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn. 
 
-Welcome to contribute to this repository! ':clap:'
+Welcome to contribute to this repository! :clap:
 
 <br>
 <details>

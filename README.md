@@ -21,7 +21,7 @@ Welcome to contribute to this repository! ':clap:'
 
 <br>
 <details>
-<summary><b><font size='6'>Table of Contents</font></b><font size='4'>&emsp;&emsp;&emsp;👈 click here to unfold the outlines</font></summary>
+<summary><b><font size='8'>Table of Contents</font></b><font size='4'>&emsp;&emsp;&emsp;👈 click here to unfold the outlines</font></summary>
 
 - [Related Survey](#related-survey)
 - [Dataset](#dataset)

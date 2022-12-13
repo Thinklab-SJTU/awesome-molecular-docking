@@ -65,6 +65,7 @@ Welcome to contribute to this repository! :clap:
 
 ## Molecule-Protein Docking
 - [ ] Corso, Gabriele, et al. "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking." arXiv preprint arXiv:2210.01776 (2022). [[Paper](https://arxiv.org/abs/2210.01776)][[Code](https://github.com/gcorso/DiffDock)]
+- [ ] Zhang, Yangtian, et al. "E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking." arXiv preprint arXiv:2210.06069 (2022). [[Paper](https://arxiv.org/abs/2210.06069)]
 - [ ] Lu, Wei, et al. "TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction." Advances in Neural Information Processing Systems. 2022.[[Paper](https://openreview.net/forum?id=MSBDFwGYwwt)][[Code](https://github.com/luwei0917/TankBind)]
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 

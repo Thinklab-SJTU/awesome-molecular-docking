@@ -13,12 +13,16 @@
 
 We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.
 
-We will update this repository regularly.
+We will update this repository regularly. ':sunglasses:'
 
-If you want to add related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn.
+If you want to add related works to this repository, please feel free to contact me via yangnianzu@sjtu.edu.cn. 
 
-## Table of Contents
-- [Table of Contents](#table-of-contents)
+Welcome to contribute to this repository! ':clap:'
+
+<br>
+<details>
+<summary><b><font size='6'>Table of Contents</font></b><font size='4'>&emsp;&emsp;&emsp;👈 click here to unfold the outlines</font></summary>
+
 - [Related Survey](#related-survey)
 - [Dataset](#dataset)
 - [Software for Docking](#software-for-docking)
@@ -26,6 +30,19 @@ If you want to add related works to this repository, please feel free to contact
 - [Protein-Protein Docking](#protein-protein-docking)
 - [Molecular Dynamics Simulation](#molecular-dynamics-simulation)
 - [Binding Site Identification](#binding-site-identification)
+</details>
+<br>
+
+
+<!-- ## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Related Survey](#related-survey)
+- [Dataset](#dataset)
+- [Software for Docking](#software-for-docking)
+- [Molecule-Protein Docking](#molecule-protein-docking)
+- [Protein-Protein Docking](#protein-protein-docking)
+- [Molecular Dynamics Simulation](#molecular-dynamics-simulation)
+- [Binding Site Identification](#binding-site-identification) -->
 
 
 

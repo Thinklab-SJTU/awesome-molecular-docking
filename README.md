@@ -70,6 +70,7 @@ Welcome to contribute to this repository! :clap:
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 
 ## Protein-Protein Docking
+- [ ] Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Antibody-antigen docking and design via hierarchical structure refinement." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/jin22a.html)][[Code](https://github.com/wengong-jin/abdockgen)]
 - [ ] Ganea, Octavian-Eugen, et al. "Independent se (3)-equivariant models for end-to-end rigid protein docking." International Conference on Learning Representations (2022). [[Paper](https://openreview.net/forum?id=GQjaI9mLet)][[Code](https://github.com/octavian-ganea/equidock_public)]
 
 ## Molecular Dynamics Simulation

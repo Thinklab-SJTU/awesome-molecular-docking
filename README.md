@@ -86,3 +86,4 @@ Welcome to contribute to this repository! :clap:
 - [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
 - [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
 - [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml)
+- [Survey_AI_Drug_Discovery](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery)

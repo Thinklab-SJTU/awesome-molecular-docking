@@ -30,6 +30,7 @@ Welcome to contribute to this repository! :clap:
 - [Protein-Protein Docking](#protein-protein-docking)
 - [Molecular Dynamics Simulation](#molecular-dynamics-simulation)
 - [Binding Site Identification](#binding-site-identification)
+- [See Also](#see-also)
 </details>
 <br>
 
@@ -80,3 +81,8 @@ Welcome to contribute to this repository! :clap:
 - [ ] Freyr, et al. "Fast end-to-end learning on protein surfaces." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.html)]
 - [ ] Gainza, Pablo, et al. "Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning." Nature Methods 17.2 (2020): 184-192. [[Paper](https://www.nature.com/articles/s41592-019-0666-6)][[Code](https://github.com/LPDI-EPFL/masif)]
 
+## See Also
+- [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+- [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics)
+- [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
+- [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml)

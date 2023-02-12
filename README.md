@@ -5,9 +5,9 @@
 <h1 align="center"><b>Awesome-Molecular-Docking</b></h1>
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
-    <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
-    <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/awesome-molecular-docking?color=green"></a>
-    <a href="https://github.com/yangnianzu0515/awesome-molecular-docking/stargazers"><img src="https://img.shields.io/github/stars/yangnianzu0515/awesome-molecular-docking?color=red&label=Star" alt="Stars"></a>
+    <a href="https://github.com/Thinklab-SJTU/awesome-molecular-docking/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
+    <a href="https://github.com/Thinklab-SJTU/awesome-molecular-docking/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Thinklab-SJTU/awesome-molecular-docking?color=green"></a>
+    <a href="https://github.com/Thinklab-SJTU/awesome-molecular-docking/stargazers"><img src="https://img.shields.io/github/stars/Thinklab-SJTU/awesome-molecular-docking?color=red&label=Star" alt="Stars"></a>
     <!-- <a href="https://yangnianzu0515.github.io/"><img src="https://img.shields.io/badge/Nianzu-Yang-blue" alt="MyWebsite"></a> -->
 </p>
 

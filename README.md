@@ -75,7 +75,7 @@ Welcome to contribute to this repository! :clap:
 
 
 ## Antibody Design
-- []  Luo, S., Su, Y., Peng, X., Wang, S., Peng, J., & Ma, J. Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures. In Advances in Neural Information Processing Systems. [[Paper](https://openreview.net/forum?id=jSorGn2Tjg)][[Code](https://github.com/luost26/diffab)]
+- [ ] Luo, S., Su, Y., Peng, X., Wang, S., Peng, J., & Ma, J. Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures. In Advances in Neural Information Processing Systems. [[Paper](https://openreview.net/forum?id=jSorGn2Tjg)][[Code](https://github.com/luost26/diffab)]
 - [ ] Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Antibody-antigen docking and design via hierarchical structure refinement." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/jin22a.html)][[Code](https://github.com/wengong-jin/abdockgen)]
 
 ## Molecular Dynamics Simulation

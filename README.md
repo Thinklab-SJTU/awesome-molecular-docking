@@ -71,8 +71,12 @@ Welcome to contribute to this repository! :clap:
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 
 ## Protein-Protein Docking
-- [ ] Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Antibody-antigen docking and design via hierarchical structure refinement." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/jin22a.html)][[Code](https://github.com/wengong-jin/abdockgen)]
 - [ ] Ganea, Octavian-Eugen, et al. "Independent se (3)-equivariant models for end-to-end rigid protein docking." International Conference on Learning Representations (2022). [[Paper](https://openreview.net/forum?id=GQjaI9mLet)][[Code](https://github.com/octavian-ganea/equidock_public)]
+
+
+## Antibody Design
+- []  Luo, S., Su, Y., Peng, X., Wang, S., Peng, J., & Ma, J. Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures. In Advances in Neural Information Processing Systems. [[Paper](https://openreview.net/forum?id=jSorGn2Tjg)][[Code](https://github.com/luost26/diffab)]
+- [ ] Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Antibody-antigen docking and design via hierarchical structure refinement." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/jin22a.html)][[Code](https://github.com/wengong-jin/abdockgen)]
 
 ## Molecular Dynamics Simulation
 - [ ] Fu, Xiang, et al. "Simulate Time-integrated Coarse-grained Molecular Dynamics with Geometric Machine Learning." arXiv preprint arXiv:2204.10348 (2022). [[Paper](https://arxiv.org/abs/2204.10348)][[Code](https://github.com/kyonofx/mlcgmd)]
